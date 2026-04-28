@@ -1,0 +1,1 @@
+{"classification": {"accuracy": 0.8955}, "regression": {"mae": 164.16383265461548, "rmse": 214.27102058856198, "r2": 0.8839184272936915}, "clustering": {"silhouette": 0.17750051572983644}}
